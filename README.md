@@ -6,12 +6,10 @@
 ---
 
 ## 프로젝트 구조
-├── CatDogClassifier.ipynb # 메인 Colab Notebook
-├── data/ # 데이터셋 (예: Kaggle Dogs vs Cats)
-├── models/ # 학습된 모델 저장 폴더
-└── README.md
-
-
+├── CatDogClassifier.ipynb # 메인 Colab Notebook  
+├── data/ # 데이터셋 (예: Kaggle Dogs vs Cats)  
+├── models/ # 학습된 모델 저장 폴더  
+└── README.md  
 ---
 
 ## ⚙실행 방법 (Google Colab)
